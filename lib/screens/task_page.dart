@@ -104,7 +104,7 @@ class _TaskPageState extends State<TaskPage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 SizedBox(
-                  height: 10,
+                  height: 11,
                 ),
                 Align(
                   alignment: Alignment.bottomRight,
